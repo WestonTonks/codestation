@@ -25,5 +25,4 @@ export const addComment = (data) => {
     data,
   });
 };
-
-// test
+// tst
